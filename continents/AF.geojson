@@ -1,10 +1,5 @@
 {
   "type": "FeatureCollection",
-  "group": {
-    "id":1,
-    "name":"The African continent",
-    "description":NULL,
-  },
   "features": [
       {
         "type": "Feature",
