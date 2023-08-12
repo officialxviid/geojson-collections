@@ -1,45 +1,72 @@
 
-<h1 align="center">
+<h3>
   <br>
   <a href="https://github.com/officialxviid/geojson-collections">
-    <img src="https://img.icons8.com/parakeet/512/globe.png" alt="Markdownify" width="200">
+    <img src="https://img.icons8.com/parakeet/512/globe.png" alt="Markdownify" width="20">
   </a>
-  <br>
   GeoJson Collections
   <br>
-</h1>
+</h3>
 
-<h4 align="center">A collection of open standard formats designed to represent simple geographic features, along with their non-spatial attributes. <a href="https://geojson.org/" target="_blank">See more</a>.</h4>
+<h1>Continents</h1>
 
-<p align="center">
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/license-MIT-1EAEDB.svg">
-  </a>
-  <a href="https://xviid.net">
-    <img src="https://img.shields.io/badge/author-XVIID-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#key-features">Continents</a> •
-  <a href="#how-to-use">Regions</a> •
-  <a href="#download">Countries</a> •
-  <a href="#credits">States</a> •
-  <a href="#related">Cities</a> •
-  <a href="#license">Timezones</a>
-</p>
-
-![screenshot](https://images.unsplash.com/photo-1516738901171-8eb4fc13bd20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1920&q=80)
-
-## Total Data
-
-* 8 continents
-* 
-
----
-
-> [xviid.net](https://xviid.net) &nbsp;&middot;&nbsp;
-> GitHub [@officialxviid](https://github.com/officialxviid) &nbsp;&middot;&nbsp;
-> Instagram [@officialxviid](https://instagram.com/officialxviid) &nbsp;&middot;&nbsp;
-> Twitter [@officialxviid](https://twitter.com/officialxviid)
-
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Name</th>
+      <th>Code</th>
+      <th>File</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Africa</td>
+      <td>AF</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/AF.geojson">AF.geojson</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Antarctica</td>
+      <td>AN</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/AN.geojson">AN.geojson</a></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Asia</td>
+      <td>AS</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/AS.geojson">AS.geojson</a></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Australia</td>
+      <td>AU</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/AU.geojson">AU.geojson</a></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Europe</td>
+      <td>EU</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/EU.geojson">EU.geojson</a></td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>North america</td>
+      <td>NA</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/NA.geojson">NA.geojson</a></td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Oceania</td>
+      <td>OC</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/OC.geojson">OC.geojson</a></td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>South america</td>
+      <td>SA</td>
+      <td><a href="https://github.com/officialxviid/geojson-collections/blob/main/continents/SA.geojson">SA.geojson</a></td>
+    </tr>
+  </tbody>
+</table>
