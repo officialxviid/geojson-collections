@@ -1,10 +1,5 @@
 {
   "type": "FeatureCollection",
-  "group": {
-    "id":6,
-    "name":"South America continent",
-    "description":NULL,
-  },
   "features": [
     {
       "type": "Feature",
