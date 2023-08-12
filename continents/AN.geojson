@@ -1,10 +1,5 @@
 {
   "type": "FeatureCollection",
-  "group": {
-    "id":7,
-    "name":"Antarctic continent",
-    "description":NULL,
-  },
   "features": [
     {
       "type": "Feature",
